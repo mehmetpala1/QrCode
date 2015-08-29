@@ -1,0 +1,9 @@
+c:\users\pala\documents\visual studio 2013\Projects\QrCode\QrCode\bin\Debug\QrCode.exe.config
+c:\users\pala\documents\visual studio 2013\Projects\QrCode\QrCode\bin\Debug\QrCode.exe
+c:\users\pala\documents\visual studio 2013\Projects\QrCode\QrCode\bin\Debug\QrCode.pdb
+c:\users\pala\documents\visual studio 2013\Projects\QrCode\QrCode\obj\Debug\QrCode.csprojResolveAssemblyReference.cache
+c:\users\pala\documents\visual studio 2013\Projects\QrCode\QrCode\obj\Debug\QrCode.Form1.resources
+c:\users\pala\documents\visual studio 2013\Projects\QrCode\QrCode\obj\Debug\QrCode.Properties.Resources.resources
+c:\users\pala\documents\visual studio 2013\Projects\QrCode\QrCode\obj\Debug\QrCode.csproj.GenerateResource.Cache
+c:\users\pala\documents\visual studio 2013\Projects\QrCode\QrCode\obj\Debug\QrCode.exe
+c:\users\pala\documents\visual studio 2013\Projects\QrCode\QrCode\obj\Debug\QrCode.pdb
